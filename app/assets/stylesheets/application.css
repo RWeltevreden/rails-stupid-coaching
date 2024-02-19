@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+
+#form {
+  text-align: center;
+}
+
+#ask {
+  text-align: center;
+  /* width: 200px; */
+}
+
+ #answer {
+  background-color: blanchedalmond;
+  /* width: 200px; */
+  text-align: center;
+ }
+
+ #link {
+  text-align: center;
+ }
